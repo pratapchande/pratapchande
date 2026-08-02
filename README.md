@@ -1,70 +1,63 @@
-<h1 align="center">Hi 👋, I'm Pratap Chande</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=Salesforce+Administrator;Java+Developer;Computer+Engineering+Graduate;Learning+Apex+%26+LWC;Open+to+Work+for+Salesforce+Roles" />
-</p>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Pratap Chande
+</h1>
 
 <h3 align="center">
-Salesforce Administrator • Java Developer • Computer Engineering Graduate
+☁️ Salesforce Administrator | 💻 Java Developer | 🚀 Open to Work
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pratapchande&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=Salesforce+Administrator;Java+Developer;Computer+Engineering+Graduate;Learning+Apex+%26+LWC;Open+to+Work+for+Salesforce+Roles;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pratapchande&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/pratapchande?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/pratapchande?style=for-the-badge"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 Computer Engineering Graduate
 
-💼 Looking for Salesforce Administrator / Salesforce Developer Opportunities
+☁️ Salesforce Administrator
+
+💻 Java Developer
 
 🌱 Currently Learning
 - Apex
 - Lightning Web Components (LWC)
 - SOQL
-- Salesforce Development
 
-💻 Skills
-- Salesforce Administration
-- Flow Builder
-- Validation Rules
-- Reports & Dashboards
-- Process Automation
-- Java
-- SQL
-- Git & GitHub
+💼 Looking for
+- Salesforce Administrator
+- Salesforce Developer
+- Java Developer
 
-⚡ Passionate about building CRM solutions using Salesforce.
+📍 Pune, Maharashtra, India
 
----
+📧 Email
+> pratapchande2002@gmail.com
 
-# 🌐 Connect With Me
+📞 Phone
+> +91 8329383376
 
-<p align="left">
+🔗 LinkedIn
+> https://www.linkedin.com/in/pratap-chande-763b02248
 
-<a href="https://www.linkedin.com/in/pratap-chande-763b02248">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+⚡ Fun Fact
 
-<a href="mailto:pratapchande2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="tel:+918329383376">
-<img src="https://img.shields.io/badge/Phone-8329383376-success?style=for-the-badge&logo=googlemessages"/>
-</a>
-
-</p>
+> I enjoy building Salesforce solutions and continuously improving my development skills.
 
 ---
 
 # 🚀 Tech Stack
 
-## ☁️ Salesforce
+### ☁️ Salesforce
 
 <p>
 
@@ -74,7 +67,7 @@ Salesforce Administrator • Java Developer • Computer Engineering Graduate
 
 <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOQL-1798C1?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Flow_Builder-00A1E0?style=for-the-badge"/>
 
@@ -82,31 +75,49 @@ Salesforce Administrator • Java Developer • Computer Engineering Graduate
 
 </p>
 
-## 💻 Programming Languages
+### 💻 Languages
 
 <p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode,idea,mysql"/>
 
 </p>
 
-## 🛠 Tools
+---
 
-<p>
+# 🌐 Connect With Me
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
 
+<a href="mailto:pratapchande2002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pratap-chande-763b02248">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/pratapchande">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+</p>
 
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea"/>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratapchande&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapchande&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pratapchande&theme=tokyonight"/>
 
 </p>
 
