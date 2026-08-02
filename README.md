@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Pratap%20Chande&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Salesforce%20Administrator%20|%20Java%20Developer%20|%20Open%20To%20Work&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,50:3A7BD5,100:004e92&text=Pratap%20Chande&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Salesforce%20Administrator%20%7C%20Java%20Developer%20%7C%20Open%20To%20Work&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=☁️+Salesforce+Administrator;💻+Java+Developer;🚀+Learning+Apex+%26+LWC;📚+Computer+Engineering+Graduate;🔥+Always+Learning+New+Technologies"/>
+# Hi 👋 I'm **Pratap Chande**
+
+### ☁️ Salesforce Administrator • 💻 Java Developer • 🚀 Computer Engineering Graduate
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Salesforce+Administrator;Java+Developer;Learning+Apex+%26+LWC;Open+To+Work;Always+Learning+New+Technologies"/>
 
 <p>
 
-<img src="https://img.shields.io/badge/Open%20To%20Work-success?style=for-the-badge"/>
-
-<img src="https://komarev.com/ghpvc/?username=pratapchande&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=pratapchande&label=Profile%20Views&style=for-the-badge&color=blue"/>
 
 <img src="https://img.shields.io/github/followers/pratapchande?style=for-the-badge&logo=github"/>
 
 <img src="https://img.shields.io/github/stars/pratapchande?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To%20Work-success?style=for-the-badge"/>
 
 </p>
 
@@ -22,14 +26,12 @@
 
 # 💫 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
 ```yaml
 Name: Pratap Chande
 
-Role: Salesforce Administrator
-
 Location: Pune, Maharashtra, India
+
+Role: Salesforce Administrator
 
 Education: Computer Engineering Graduate
 
@@ -42,25 +44,25 @@ Currently Learning:
   - Lightning Web Components
   - SOQL
 
-Looking For:
-  - Salesforce Administrator
-  - Salesforce Developer
-  - Java Developer
+Interested In:
+  - Salesforce Development
+  - CRM Solutions
+  - Java Development
 ```
-
-<br>
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode,idea,mysql"/>
 
-<br><br>
+</p>
 
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge"/>
 
@@ -79,15 +81,15 @@ Looking For:
 <p align="center">
 
 <a href="mailto:pratapchande2002@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pratap-chande-763b02248">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/pratapchande">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
